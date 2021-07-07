@@ -2,4 +2,4 @@
 
 crash course for git
 
-System.out.print("PRIVET")
+System.out.print("PRIVET POKA!!!!!!!!!")
